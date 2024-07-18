@@ -17,4 +17,6 @@ I also calculated the 2D components of the state vector instead of showing it be
 - Real part: [0.0, 0.9999999]
 - Imaginary part: [0.0, 0.0]
 These components represent the projection of the state vector onto a 2D plane, providing further insight into the quantum state of the star.
-This simulation serves as an educational tool to demonstrate the potential of quantum computing in modeling astrophysical events and exploring the mysteries of the universe.
+This simulation serves as an educational tool to demonstrate the potential of quantum computing in modeling astrophysical events and exploring the mysteries of the universe. <br>
+
+<a href="https://ibb.co/BKsNWMx"><img src="https://i.ibb.co/tPCXjrt/dfsfsdf.jpg" alt="dfsfsdf" border="0"></a>
