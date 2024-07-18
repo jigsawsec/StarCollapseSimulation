@@ -15,7 +15,7 @@ Hypothetically, in space, the collapse of a star involves complex physical proce
 In my simulation, I abstracted these complex processes into a series of quantum gates to provide a simplified representation of the star collapse. While this simulation does not capture the full complexity of a real star collapse, it offers a glimpse into how quantum computing can be used to model and understand such phenomena.
 I also calculated the 2D components of the state vector instead of showing it because it was not possible to visualize this on a 3D model as you could see in the chart:
 - Real part: [0.0, 0.9999999]
-- Imaginary part: [0.0, 0.0]
+- Imaginary part: [0.0, 0.0] <br>
 These components represent the projection of the state vector onto a 2D plane, providing further insight into the quantum state of the star.
 This simulation serves as an educational tool to demonstrate the potential of quantum computing in modeling astrophysical events and exploring the mysteries of the universe. <br>
 
